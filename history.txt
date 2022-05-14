@@ -1,0 +1,411 @@
+    1  1s
+    2  1s /data
+    3  1s
+    4  git --version
+    5  1s-1rh
+    6  1s 1rh
+    7  1s/
+    8  git config --global user.name "Zoe"
+    9  1s
+   10  pwd
+   11  1s
+   12  cd
+   13  ls
+   14  ls
+   15  pwd
+   16  ls/
+   17  ls /
+   18  ls/data
+   19  ls Sved Games
+   20  ls/ Saved Games
+   21  ls /
+   22  LICENSE.txt        bin/  dev/  git-bash.exe*  mingw64/  tmp/          unins001.exe*  usr/
+   23  ReleaseNotes.html  cmd/  etc/  git-cmd.exe*   proc/     unins001.dat  unins001.msg
+   24  ls
+   25  ls -p/
+   26  ls -p/ 
+   27  pwd
+   28  mkdir Learning_unix
+   29  cd Learning_unix
+   30  mkdir Outer_directory
+   31  cd Outer_directory
+   32  mkdir Inner_directory
+   33  cd Inner_directory
+   34  cd home
+   35  cd/
+   36  pwd
+   37  cd Zoe White
+   38  cd Users
+   39  cd/
+   40  cd /
+   41  $ ls /
+   42  LICENSE.txt        bin/  dev/  git-bash.exe*  mingw64/  tmp/          unins001.exe*  usr/
+   43  ReleaseNotes.html  cmd/  etc/  git-cmd.exe*   proc/     unins001.dat  unins001.msg
+   44  Zoe White@LAPTOP-RH0NE0KG MINGW64 ~
+   45  $ LICENSE.txt        bin/  dev/  git-bash.exe*  mingw64/  tmp/          unins001.exe*  usr/
+   46  bash: LICENSE.txt: command not found
+   47  Zoe White@LAPTOP-RH0NE0KG MINGW64 ~
+   48  $ ReleaseNotes.html  cmd/  etc/  git-cmd.exe*   proc/     unins001.dat  unins001.msg
+   49  bash: ReleaseNotes.html: command not found
+   50  Zoe White@LAPTOP-RH0NE0KG MINGW64 ~
+   51  $ ls
+   52  '3D Objects'/
+   53   AppData/
+   54  'Application Data'@
+   55   Contacts/
+   56  $ ls /
+   57  LICENSE.txt        bin/  dev/  git-bash.exe*  mingw64/  tmp/          unins001.exe*  usr/
+   58  ReleaseNotes.html  cmd/  etc/  git-cmd.exe*   proc/     unins001.dat  unins001.msg
+   59  Zoe White@LAPTOP-RH0NE0KG MINGW64 ~
+   60  $ LICENSE.txt        bin/  dev/  git-bash.exe*  mingw64/  tmp/          unins001.exe*  usr/
+   61  bash: LICENSE.txt: command not found
+   62  Zoe White@LAPTOP-RH0NE0KG MINGW64 ~
+   63  $ ReleaseNotes.html  cmd/  etc/  git-cmd.exe*   proc/     unins001.dat  unins001.msg
+   64  bash: ReleaseNotes.html: command not found
+   65  Zoe White@LAPTOP-RH0NE0KG MINGW64 ~
+   66  $ ls
+   67  '3D Objects'/
+   68   AppData/
+   69  'Application Data'@
+   70   Contacts/
+   71  pwd
+   72  cd home
+   73  pwd
+   74  cd Inner_directory
+   75  cd Outer_directory
+   76  cd Outer_directory
+   77  cd Learning_unix
+   78  cd Outer_directory
+   79  cd Inner_directory
+   80  cd /c/Users/Zoe White/
+   81  cd /Users/Zoe White
+   82  cd Zoe White
+   83  cd/
+   84  cd /
+   85   pwd
+   86  cd c
+   87  cd Users
+   88  cd Zoe White
+   89  cd Zoe White/
+   90  cd Zoe White/
+   91  pwd
+   92  cd /Zoe White/
+   93  cd / Zoe White
+   94  cd / Zoe White/
+   95  cd Learning_unix
+   96  cd Learning_unix
+   97  cd Zoe White/
+   98  cd /
+   99  cd c
+  100  cd Users
+  101  cd Zoe White
+  102  cd Zoe White/
+  103  cd Learning_unix
+  104  cd Outer_directory
+  105  cd Inner_directory
+  106  cd Zoe White
+  107  /Users/Zoe White/
+  108  cd /c/Users/
+  109  cd Zoe White
+  110  /Zoe White
+  111  cd Zoe White
+  112  cd Zoe White/
+  113  cd Zoe White /
+  114  /Zoe White
+  115  cd "Zoe White"
+  116  cd Zoe\ White
+  117  cd 'Zoe White'
+  118  pwd
+  119  cd Learning_unix
+  120  cd Outer_directory
+  121  cd Inner_directory
+  122  cd /c/Users/"Zoe White"/
+  123  pwd
+  124  cd Learning_unix
+  125  cd ..
+  126  pwd
+  127  cd ..
+  128  pwd 
+  129  cd "Zoe White"/
+  130  cd /c/Users/"Zoe White"/
+  131  cd c/Users/"Zoe White"/Learning_unix/Outer_directory/Inner_directory
+  132  cd Inner_directory
+  133  pwd
+  134  cd Outer_directory
+  135  cd Learning_unix
+  136  cd Outer_directory
+  137  cd ../..
+  138  pwd
+  139  cd Learning_directory
+  140  cd Outer_directory
+  141  cd Inner_directory
+  142  cd Learning_unix
+  143  cd Outer_directory
+  144  cd Inner_directory
+  145  cd ../..
+  146  d Outer_directory
+  147  cd Outer_directory
+  148  cd Inner_directory
+  149  cd ..
+  150  cd../..
+  151  cd ../..
+  152  pwd
+  153  pwd
+  154  cd home
+  155  cd /
+  156  cd ~
+  157  cd
+  158  cd~Learning_directory
+  159  cd ~/Learning-directory
+  160  cd~/Learning_directory
+  161  cd ~/Learning_directory
+  162  cd ~/Learning_unix
+  163  cd ~/Learning_unix/Outer_directory/
+  164  ls ../../
+  165  man ls
+  166  man man 
+  167  cd home
+  168  git config --global user.name "Zoe White"
+  169  git config --global user.email n.s.white4422@gmail.com
+  170  cd /c/Users/"Zoe White"/git-basic-exercises/
+  171  pwd
+  172  cd /c/Users/"Zoe White/git-baasic-exercise
+  173  cd /c/Users/"Zoe White"/git-basic-exercise
+  174  pwd
+  175  cd git-basic-exercise
+  176  pwd
+  177  cd ../..
+  178  cd../..
+  179  cd ..
+  180  cd ..
+  181  cd ..
+  182  cd /c
+  183  cd /c/Users/"Zoe White"/basic-git-exercise
+  184  cd Users
+  185  cd "Zoe White"
+  186  pwd
+  187  cd basic-git-exercise
+  188  nano README.md
+  189  cat README.md
+  190  git status
+  191  pwd
+  192  cd basic-git-exercise
+  193  mkdir basic-git-exercise
+  194  cd basic-git-exercise
+  195  pwd
+  196  ls -a
+  197  ls -a
+  198  ls 
+  199  pwd
+  200  ls -a
+  201  ls 
+  202  git init
+  203  ls -a
+  204  ls
+  205  git status
+  206  touch README.md
+  207  ls -a
+  208  git status
+  209  git log
+  210  git add README.md
+  211  git status
+  212  git reset HEAD README.md
+  213  git status
+  214  git rm --cached <README.md>...
+  215  git rm --cached <README.md>
+  216  git rm --cached <README.md>
+  217  <README.md>
+  218  git rm --cached README.md
+  219  git status
+  220  ls -a
+  221  git add README.md
+  222  git status
+  223  git commit -m "initial commit"
+  224  git log
+  225  q
+  226  q
+  227  q
+  228  q
+  229  pwd
+  230  git log
+  231  q
+  232  :q
+  233  q
+  234  Q
+  235  :Q
+  236  ZZ
+  237   q
+  238   q
+  239   q
+  240  q
+  241    q
+  242  git log
+  243  q
+  244  :q
+  245  z
+  246  q
+  247  pwd
+  248  git log
+  249  q
+  250  q
+  251  :q
+  252  q
+  253   git log
+  254  :q
+  255  : q
+  256  git status
+  257  git status
+  258  nano README.md
+  259  cat README.md
+  260  git status
+  261  git commit -m "second commit"
+  262  git status
+  263  git log
+  264  : q
+  265  git add README.md
+  266  git commit -m "second commit"
+  267  git log
+  268  git add README.md
+  269  git status
+  270  git add README.md
+  271  git status
+  272  git log
+  273  git commit add -m "second commit"
+  274  git add README.md
+  275  git add README.md
+  276  git status
+  277  git log
+  278  git status
+  279  nano README.md
+  280  cat README.md
+  281  git status
+  282  git add README.md
+  283  git commit -m "third commit"
+  284  git log 
+  285  : q
+  286  git checkout 07bf9d83efa51666164566585a9d4c2f4911bf9a
+  287  cat README.md
+  288  git checkout main
+  289  cat README.md
+  290  git checkout main
+  291  git checkout main
+  292  git branch
+  293  git checkout master
+  294  cat README.md
+  295  git branch
+  296  git checkout -b milkshake-flavours
+  297  git branch
+  298  nano milkshakes.md
+  299  git status
+  300  git add milkshakes.md
+  301  git commit -m "added initial flavours"
+  302  git log
+  303  git checkout master
+  304  git branch
+  305  git checkout -b history
+  306  git log
+  307  git branch
+  308  history > history.txt
+  309  ls
+  310  git add history.txt
+  311  git commit -m "added history"
+  312  git log
+  313  git checkout milkshake-flavours
+  314  git log
+  315  nano README.md
+  316  cat README.md
+  317  git add README.md
+  318  git commit -m "random readme changes"
+  319  git log
+  320  cat README.md
+  321  git checkout history
+  322  cat README.md
+  323  rm README.md
+  324  echo "booya" > README.md
+  325  cat README.md
+  326  ls
+  327  cat README.md
+  328  git add README.md
+  329  git commit -m "rewrote readme"
+  330  git checkout master
+  331  ls
+  332  git log
+  333  git checkout milkshake-flavours
+  334  ls
+  335  git log
+  336  git checkout history
+  337  ls
+  338  git log
+  339  git checkout main
+  340  git checkout master
+  341  git merge milkshake-flavours
+  342  ls
+  343  git log
+  344  git merge history
+  345  ls
+  346  git log
+  347  git checkout history
+  348  git status
+  349  nano README.md
+  350  git add README.md
+  351  git add .
+  352  nano README.md
+  353  git add README.md
+  354  git status
+  355  git commit
+  356  mkdri git-basics-exercises
+  357  cd git-basics-exercises
+  358  mkdir git-basics-exercises
+  359  cd git-basics-exercises
+  360  ls -a
+  361  git init 
+  362  ls -a
+  363  touch README.md
+  364  ls -a
+  365  git status
+  366  git log
+  367  git add README.md
+  368  git status
+  369  git rm --cached README.md
+  370  git log
+  371  git status
+  372  git add README.md
+  373  git log
+  374  git status
+  375  git commit -m "initial commit"
+  376  git log
+  377  : q
+  378  notepad README.md
+  379  cat README.md
+  380  git status
+  381  git add README.md
+  382  git commit -m "second commit"
+  383  notepad README.md
+  384  cat README.md
+  385  git status
+  386  git add README.md
+  387  git commit -m "third commit"
+  388  git log
+  389  : q
+  390  git checkout 236d29971c13aaf1caad5309de56dece3dc136b6
+  391  cat README.md
+  392  git checkout master
+  393  cat README.md
+  394  git branch
+  395  git checkout -b milkshake-flavours
+  396  git branch
+  397  git checkout master
+  398  git branch
+  399  git checkout milkshake-flavours
+  400  git branch
+  401  notepad milkshakes.md
+  402  cat milkshakes.md
+  403  git status
+  404  git add milkshakes.md
+  405  git commit -m "added initial flavours"
+  406  git log
+  407  git checkout master
+  408  git status
+  409  git checkout -b history
+  410  git log 
+  411  history > history.txt
